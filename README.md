@@ -25,9 +25,15 @@ Saya seseorang yang suka **koding**, belajar hal baru, dan berbagi karya sederha
   <img src="https://img.shields.io/badge/Code-HTML-orange?logo=html5" />
   <img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript" />
+  <img src="https://img.shields.io/badge/Build-Vite-purple?logo=vite" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react" />
+  <img src="https://img.shields.io/badge/Framework-Vue-42b883?logo=vue.js" />
+  <img src="https://img.shields.io/badge/UI-TailwindCSS-38B2AC?logo=tailwindcss" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode" />
   <img src="https://img.shields.io/badge/Host-InfinityFree-lightgrey" />
 </p>
+
 
 ---
 
