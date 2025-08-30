@@ -22,18 +22,25 @@ Saya seseorang yang suka **koding**, belajar hal baru, dan berbagi karya sederha
 
 ## ⚙️ Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Code-HTML-orange?logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS-blue?logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?logo=typescript" />
-  <img src="https://img.shields.io/badge/Build-Vite-purple?logo=vite" />
-  <img src="https://img.shields.io/badge/Framework-React-61DAFB?logo=react" />
-  <img src="https://img.shields.io/badge/Framework-Vue-42b883?logo=vue.js" />
-  <img src="https://img.shields.io/badge/UI-TailwindCSS-38B2AC?logo=tailwindcss" />
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Host-InfinityFree-lightgrey" />
-</p>
+  <!-- Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS" />
+  
+  <!-- Editor -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
 
+  <!-- Hosting -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub Pages" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/cloud.png" width="40" height="40" alt="InfinityFree" />
+</p>
 
 ---
 
