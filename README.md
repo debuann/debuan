@@ -1,22 +1,22 @@
-# 👋 Halo, saya Debuan  
+# 👋 Hi, I’m Debuan  
 
-Selamat datang di repositori saya!  
-Saya seseorang yang suka **koding**, belajar hal baru, dan berbagi karya sederhana.  
-
----
-
-## 🚀 Tentang Saya
-- 🌱 Sedang belajar: **HTML, CSS, JavaScript, dan framework modern**  
-- 💻 Suka membangun: Website sederhana, UI, dan eksperimen coding  
-- 🤝 Terbuka untuk: Kolaborasi project open source kecil  
-- 🎯 Motto: "Dari hal kecil — seperti butir debu — bisa lahir karya besar."  
+Hello Hello Debuuannnn  
+I’m someone who enjoys **tinkering with code**, exploring new things, and turning simple ideas into small creations.  
 
 ---
 
-## 📂 Project Saya
-- 🔗 [Portfolio Website](https://debuan.rf.gd) — halaman linktree pribadi  
-- 🔗 [GitHub Repo](https://github.com/debuann) — tempat saya simpan eksperimen koding  
-- 🔗 [Instagram](https://instagram.com/dhiiii.traaa) — sedikit tentang keseharian  
+## 🚀 About Me
+- 🌱 Currently learning: **HTML, CSS, JavaScript, and some modern frameworks**  
+- 💻 I love building: simple websites, playful UIs, and small experimental projects  
+- 🤝 Always open for: collaborating on small open-source projects or just learning together  
+- 🎯 My motto: *"I believe that even from tiny things — like dust — great works can be born."*  
+
+---
+
+## 📂 My Projects
+- 🔗 [Portfolio Website](https://debuan.rf.gd) — my own personal linktree-style page  
+- 🔗 [GitHub Repo](https://github.com/debuann) — where I store experiments and mini projects  
+- 🔗 [Instagram](https://instagram.com/dhiiii.traaa) — a little glimpse into my daily life  
 
 ---
 
@@ -44,10 +44,11 @@ Saya seseorang yang suka **koding**, belajar hal baru, dan berbagi karya sederha
 
 ---
 
-## 📫 Kontak
+## 📫 Contact
 - 📧 Email: [debuannn@gmail.com](mailto:debuannn@gmail.com)  
 - 🌐 Website: [debuan.rf.gd](https://debuan.rf.gd)  
 
 ---
 
-✨ Terima kasih sudah mampir! Jangan lupa kasih ⭐ kalau suka dengan project saya.  
+✨ Thanks for stopping by!  
+If you have a cool idea or project, feel free to reach out. And hey, don’t forget to ⭐ this repo if you find it interesting 😉  
